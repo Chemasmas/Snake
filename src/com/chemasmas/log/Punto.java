@@ -23,7 +23,7 @@ class Punto
 		return y;
 	}
 	/**
-	 * @param y the y to set
+	 * @param y the y to set.
 	 */
 	public void setY(int y) {
 		this.y = y;
